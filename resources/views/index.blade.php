@@ -32,6 +32,11 @@
                         <form action="" method="POST" class="d-inline">
                           
                             <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            
                         </form>
                     </td>
                 </tr>
